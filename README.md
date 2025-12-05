@@ -37,21 +37,4 @@
 
 ---
 
-## 🎮 Status do GitHub
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Emilio&show_icons=true&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Emilio&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Social
-
-🔗 *Adicione aqui seus links quando quiser:*  
-- Instagram  
-- LinkedIn  
-- Site / Portfólio
-
----
-
-<p align="center">💀 “Continue uparando sua própria vida.” 💀</p>
