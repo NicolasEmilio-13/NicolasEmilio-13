@@ -31,28 +31,16 @@
 
 ---
 
-## 🔧 Minhas Skills
 
-- ☕ **Linguagens:** Java • Python • JavaScript  
-- 🍂 **Ferramentas:** Git • GitHub • HTML • CSS  
-- 🌙 **Interesses:** Backend, mobile, automação e design aconchegante  
 
----
 
-## 📊 Meus Status do GitHub (opcional)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Emilio&show_icons=true&theme=brown" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Emilio&layout=compact&theme=brown" height="160px">
-</p>
 
----
+## 🌰 Social 
 
-## 🌰 Social (adicione quando quiser)
-
-- Instagram  
-- LinkedIn  
-- Portfólio  
+- Instagram  [](https://www.instagram.com/xnic_777x?igsh=MTE1NXJiZDRka3l3YQ==)
+ 
+ 
 
 ---
 
