@@ -6,9 +6,9 @@
 
 <!-- GIF AUMENTADO -->
 <p align="center">
-  <img src="https://tenor.com/tV3pdhaiK5d.gif"
-       width="480px"
-       style="border-radius: 12px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhsMG4ybWQ1ejU1Mmd1MGQxaTU4OHhmZ3V5MGFqdTY4N3V5YmJ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" 
+       width="500px" 
+       style="border-radius: 10px;">
 </p>
 
 ---
@@ -26,29 +26,18 @@
 
 ✔ Tons aconchegantes  
 ✔ Vibez de cafeteria  
-✔ Relaxante, minimalista e acolhedor  
-✔ Perfeito para quem programa com uma xícara ao lado  
+✔ Calmo, mas estiloso  
+✔ Perfeito para quem programa com uma xícara do lado  
 
 ---
 
 ## 🔧 Minhas Skills
 
-- ☕ **Linguagens:** Java • Python • JavaScript  
-- 🍂 **Ferramentas:** Git • GitHub • HTML • CSS  
-- 🌙 **Interesses:** Backend • Mobile • Automação  
+
+- 🌙 **Interesses:** Backend, mobile, automação e design aconchegante  
+
 
 ---
 
-## 📊 Meus Status do GitHub (opcional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicola
-
-
-
-
- 
-
-
-
 <p align="center">✨ “Códigos bons nascem de cafés fortes.” ✨</p>
+
