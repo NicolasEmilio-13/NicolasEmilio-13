@@ -36,12 +36,8 @@
 
 
 
-## 🌰 Social 
-
-- Instagram  -[](https://www.instagram.com/xnic_777x?igsh=MTE1NXJiZDRka3l3YQ==)
- 
  
 
----
+
 
 <p align="center">✨ “Códigos bons nascem de cafés fortes.” ✨</p>
