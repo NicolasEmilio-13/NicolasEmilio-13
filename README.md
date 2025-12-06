@@ -38,7 +38,7 @@
 
 ## 🌰 Social 
 
-- Instagram  [](https://www.instagram.com/xnic_777x?igsh=MTE1NXJiZDRka3l3YQ==)
+- Instagram  -[](https://www.instagram.com/xnic_777x?igsh=MTE1NXJiZDRka3l3YQ==)
  
  
 
