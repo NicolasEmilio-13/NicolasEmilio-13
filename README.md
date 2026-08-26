@@ -39,5 +39,33 @@
 
 ---
 
-<p align="center">✨ “Códigos bons nascem de cafés fortes.” ✨</p>
+<p align="center">✨ “Códigos bons nascem de cafés fortes.” ✨
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+` HTML5 ` ` CSS3 ` ` JavaScript ` ` Git ` ` GitHub ` ` VS Code `
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</div>
+
+---
+
+### 📫 Vamos conversar?
+
+✦ **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)  
+✦ **E-mail:** seu.email@exemplo.com  
+
+---
+
+<p align="center">
+  <i>"Primeiro, resolva o problema. Depois, escreva o código."</i> ☕
+</p>
 
