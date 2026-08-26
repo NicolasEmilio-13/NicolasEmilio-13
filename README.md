@@ -45,7 +45,7 @@
 
 ---
 <div align="center">
-  <img height="150em" src="https://media1.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" alt="Coffee Pixel Art"/>
+  <img height="150em" src="https://media3.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coffee Mug Pixel"/>
 </div>
 
 ---
