@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img height="160em" src="https://media.giphy.com/media/3oz8xKkuY65HJlC4lq/giphy.gif" alt="Pixel Art Coffee"/>
+  <img height="160em" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coffee.gif" alt="Coffee Pixel"/>
 </div>
 
 ---
