@@ -45,9 +45,8 @@
 
 ---
 
-<div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212284087-958b9913-a44e-4e6f-87d9-ea9a0a09e075.gif](https://tenor.com/pt-BR/view/coffee-need-time-love-anime-gif-26750065)" width="180" alt="Coffee Steam"/>
-</div>
+<div class="tenor-gif-embed" data-postid="26750065" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/coffee-need-time-love-anime-gif-26750065">Coffee Need GIF</a>from <a href="https://tenor.com/search/coffee-gifs">Coffee GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ---
 
 ### 📫 Vamos conversar?
