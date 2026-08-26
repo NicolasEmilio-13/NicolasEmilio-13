@@ -6,9 +6,7 @@
 
 <!-- GIF AUMENTADO -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhsMG4ybWQ1ejU1Mmd1MGQxaTU4OHhmZ3V5MGFqdTY4N3V5YmJ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" 
-       width="500px" 
-       style="border-radius: 10px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhsMG4ybWQ1ejU1Mmd1MGQxaTU4OHhmZ3V5MGFqdTY4N3V5YmJ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" width="500px" style="border-radius: 10px;">
 </p>
 
 ---
@@ -33,13 +31,11 @@
 
 ## 🔧 Minhas Skills
 
-
 - 🌙 **Interesses:** Backend, mobile, automação e design aconchegante  
-
 
 ---
 
-<p align="center">✨ “Códigos bons nascem de cafés fortes.” ✨
+<p align="center">✨ “Códigos bons nascem de cafés fortes.” ✨</p>
 
 ---
 
@@ -51,31 +47,23 @@
 
 ### 📈 Estatísticas do GitHub
 
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Emilio 
-&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= Nicolas-Emilio 
-&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Emilio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Emilio&layout=compact&theme=dark"/>
 </div>
 
 ---
 
-
-
 ### 📫 Vamos conversar?
 
 <div align="center">
-
 <a href="https://www.instagram.com/xnic_777x?utm_source=qr&igsi=MTE1NXJiZDRka3l3YQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-
-  
 </a>
 </div>
+
 ---
 
 <p align="center">
   <i>"Primeiro, resolva o problema. Depois, escreva o código."</i> ☕
 </p>
-
