@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-958b9913-a44e-4e6f-87d9-ea9a0a09e075.gif" width="180" alt="Coffee Steam"/>
+  <img src="[https://user-images.githubusercontent.com/74038190/212284087-958b9913-a44e-4e6f-87d9-ea9a0a09e075.gif](https://tenor.com/pt-BR/view/coffee-need-time-love-anime-gif-26750065)" width="180" alt="Coffee Steam"/>
 </div>
 ---
 
