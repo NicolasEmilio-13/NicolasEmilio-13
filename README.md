@@ -53,22 +53,24 @@
 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=☕ Nicolas-Emilio ☕
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Emilio 
 &show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=☕ Nicolas-Emilio ☕
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= Nicolas-Emilio 
 &layout=compact&theme=dark"/>
 </div>
 
 ---
 
-### 📫 Vamos conversar?
+
 
 ### 📫 Vamos conversar?
 
 <div align="center">
 
-<a href="https://instagram.com/SEU_USUARIO" target="_blank">
+<a href="https://www.instagram.com/xnic_777x?utm_source=qr&igsi=MTE1NXJiZDRka3l3YQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+
+  
 </a>
 </div>
 ---
