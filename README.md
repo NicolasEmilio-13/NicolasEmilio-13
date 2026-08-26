@@ -44,9 +44,8 @@
 ` HTML5 ` ` CSS3 ` ` JavaScript ` ` Git ` ` GitHub ` ` VS Code `
 
 ---
-
 <div align="center">
-  <img height="160em" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coffee.gif" alt="Coffee Pixel"/>
+  <img src="https://img.shields.io/badge/Coffee_Lover-Pixel_Art-%236F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
 </div>
 
 ---
