@@ -49,6 +49,11 @@
 <div align="center">
   <img height="150em" src="https://media3.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coffee Mug Pixel"/>
 </div>
+
+<div align="center">
+  <img height="150em" src="https://media1.tenor.com/images/3b3c31b3e803d526e3cdae0477028bde/tenor.gif" alt="Pixel Coffee Tenor"/>
+</div>
+
 ---
 
 ### 📫 Vamos conversar?
