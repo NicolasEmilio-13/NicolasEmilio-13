@@ -45,7 +45,7 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/Coffee_Lover-Pixel_Art-%236F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  <img height="150em" src="https://media1.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" alt="Coffee Pixel Art"/>
 </div>
 
 ---
