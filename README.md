@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 
-<a href="https://discord.com" target="_blank">
+<a href="https://discord.com/users/hirochi_my13" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
