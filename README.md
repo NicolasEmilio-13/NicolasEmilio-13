@@ -45,7 +45,9 @@
 
 ---
 
-<div class="tenor-gif-embed" data-postid="26750065" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/coffee-need-time-love-anime-gif-26750065">Coffee Need GIF</a>from <a href="https://tenor.com/search/coffee-gifs">Coffee GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhsMG4ybWQ1ejU1Mmd1MGQxaTU4OHhmZ3V5MGFqdTY4N3V5YmJ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif](https://tenor.com/pt-BR/view/coffee-need-time-love-anime-gif-26750065)" width="500px" style="border-radius: 10px;">
+</p>
 
 ---
 
