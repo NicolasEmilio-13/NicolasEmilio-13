@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://media.tenor.com/c1N0wL5G-5gAAAAC/coffee-pixel.gif" alt="Coffee Pixel Art"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coffee.gif" width="200" alt="Coffee"/>
 </div>
 ---
 
