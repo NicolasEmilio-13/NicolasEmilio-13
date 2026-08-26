@@ -60,9 +60,7 @@
   <a href="https://www.instagram.com/xnic_777x?utm_source=qr&igsi=MTE1NXJiZDRka3l3YQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
- <a href="https://www.roblox.com" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox-familia13nicolas-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"/>
-  </a>
+
   <a href="https://open.spotify.com/user/31m3tsiy5qkdbj4kxsoh6uujan4i?si=zCQcD7r-RhS3KIC6W8fd6Q&utm_source=copy-link" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
