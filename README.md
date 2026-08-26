@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coffee.gif" width="200" alt="Coffee"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-958b9913-a44e-4e6f-87d9-ea9a0a09e075.gif" width="180" alt="Coffee Steam"/>
 </div>
 ---
 
