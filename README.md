@@ -45,13 +45,9 @@
 
 ---
 
-
-
-
 <div align="center">
-  <img height="150em" src="https://media1.tenor.com/images/3b3c31b3e803d526e3cdae0477028bde/tenor.gif" alt="Pixel Coffee Tenor"/>
+  <img height="150em" src="https://media.tenor.com/c1N0wL5G-5gAAAAC/coffee-pixel.gif" alt="Coffee Pixel Art"/>
 </div>
-
 ---
 
 ### 📫 Vamos conversar?
